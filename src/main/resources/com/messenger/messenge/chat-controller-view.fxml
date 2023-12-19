@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Text?>
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml">
+
+    <Button fx:id="backView" text="Назад" onAction="#back"/>
+    <Text fx:id="usernameApponentView" />
+    <GridPane xmlns:fx="http://javafx.com/fxml" alignment="CENTER">
+        <ListView fx:id="messagesView"/>
+    </GridPane>
+    <TextField fx:id="messageView" promptText="Enter your message"/>
+    <Button fx:id="sendMessageView" text="Отправить" onAction="#sendMessage"/>
+    <Text fx:id="chatErrorView" fill="darkred" visible="false"/>
+</VBox>

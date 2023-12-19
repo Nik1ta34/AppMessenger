@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/GraphClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/Launch.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/NavigationHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/chat/ChatController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/chat/ChatHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/lobbies/LobbiesController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/lobbies/LobbiesHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/BaseModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/LobbiesModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/LobbyModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/LogoutModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/MessageModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/models/RegistrationModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/registration/RegistrationController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/messenger/messenge/registration/RegistrationHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
