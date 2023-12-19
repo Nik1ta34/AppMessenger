@@ -20,7 +20,7 @@ public class Server  {
     private Map<String, String> userCredentials = new ConcurrentHashMap<>();
     private Map<String, List<MessageModel>> userChatHistory = new ConcurrentHashMap<>();
     private Gson gson = new Gson().newBuilder().create();
-    private static final Logger logger = LogManager.getLogger(Server.class.getName());
+        private static final Logger logger = LogManager.getLogger(Server.class.getName());
     /**
      * Создает новый экземпляр Server, прослушивающий указанный порт.
      *

@@ -920,3 +920,85 @@ java.net.SocketException: Connection reset
 2023-12-19 23:04:57.722 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
 2023-12-19 23:04:57.926 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
 2023-12-19 23:04:59.980 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-19 23:40:35.951 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-19 23:40:35.957 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-19 23:40:36.446 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-19 23:40:36.480 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-19 23:40:36.482 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-19 23:40:36.794 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-19 23:40:39.453 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-19 23:40:42.961 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-19 23:40:42.965 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-19 23:40:43.362 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-19 23:40:43.398 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-19 23:40:43.399 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-19 23:40:43.628 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-19 23:40:45.460 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-20 00:44:04.068 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 00:44:04.072 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 00:44:04.318 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 00:44:04.340 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 00:44:04.341 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 00:44:04.487 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 00:44:07.795 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 00:44:07.798 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 00:44:08.038 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 00:44:08.060 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 00:44:08.060 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 00:44:08.187 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 00:44:10.231 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-20 00:55:58.094 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 00:55:58.097 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 00:55:58.338 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 00:55:58.358 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 00:55:58.360 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 00:55:58.495 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 00:56:03.547 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Нажата кнопка регистрации.
+2023-12-20 00:56:03.552 [JavaFX Application Thread] INFO  com.messenger.messenge.Client - Попытка регистрации пользователя: 123
+2023-12-20 00:56:03.558 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация пользователя: 123
+2023-12-20 00:56:03.575 [Thread-3] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация прошла успешно.
+2023-12-20 00:56:03.588 [Thread-3] INFO  com.messenger.messenge.Client - Запрос списка лобби.
+2023-12-20 00:57:22.678 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 00:57:22.681 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 00:57:22.923 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 00:57:22.943 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 00:57:22.943 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 00:57:23.080 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 00:57:32.753 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Нажата кнопка регистрации.
+2023-12-20 00:57:32.757 [JavaFX Application Thread] INFO  com.messenger.messenge.Client - Попытка регистрации пользователя: йцу
+2023-12-20 00:57:32.768 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация пользователя: йцу
+2023-12-20 00:57:32.772 [Thread-3] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация прошла успешно.
+2023-12-20 00:57:32.788 [Thread-3] INFO  com.messenger.messenge.Client - Запрос списка лобби.
+2023-12-20 00:57:32.792 [Thread-3] INFO  com.messenger.messenge.lobbies.LobbiesController - Получен список лобби: [com.messenger.messenge.models.LobbyModel@3cf706a8]
+2023-12-20 00:57:33.785 [JavaFX Application Thread] INFO  com.messenger.messenge.lobbies.LobbiesController - Выбрано лобби: 123
+2023-12-20 00:57:33.785 [JavaFX Application Thread] INFO  com.messenger.messenge.chat.ChatController - Открытие чата с пользователем: 123
+2023-12-20 00:57:39.326 [JavaFX Application Thread] INFO  com.messenger.messenge.Client - Запрос списка лобби.
+2023-12-20 00:57:39.328 [Thread-3] INFO  com.messenger.messenge.lobbies.LobbiesController - Получен список лобби: [com.messenger.messenge.models.LobbyModel@34a2889]
+2023-12-20 00:57:40.352 [JavaFX Application Thread] INFO  com.messenger.messenge.lobbies.LobbiesController - Выбрано лобби: йцу
+2023-12-20 00:57:40.352 [JavaFX Application Thread] INFO  com.messenger.messenge.chat.ChatController - Открытие чата с пользователем: йцу
+2023-12-20 00:57:41.558 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-20 00:57:42.151 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-20 01:02:37.772 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 01:02:37.775 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 01:02:38.016 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 01:02:38.036 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 01:02:38.037 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 01:02:38.177 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 01:02:45.390 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Нажата кнопка регистрации.
+2023-12-20 01:02:45.394 [JavaFX Application Thread] INFO  com.messenger.messenge.Client - Попытка регистрации пользователя: 123
+2023-12-20 01:02:45.404 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация пользователя: 123
+2023-12-20 01:02:45.430 [Thread-3] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация прошла успешно.
+2023-12-20 01:02:45.446 [Thread-3] INFO  com.messenger.messenge.Client - Запрос списка лобби.
+2023-12-20 01:02:47.991 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
+2023-12-20 01:03:27.195 [main] INFO  com.messenger.messenge.Launch - Приложение запущено.
+2023-12-20 01:03:27.198 [main] INFO  com.messenger.messenge.GraphClient - Запуск GraphClient.
+2023-12-20 01:03:27.432 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение запущено.
+2023-12-20 01:03:27.453 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Сокет успешно зарегистрирован.
+2023-12-20 01:03:27.453 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Начало процесса регистрации.
+2023-12-20 01:03:27.580 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Контроллер инициализирован
+2023-12-20 01:03:32.336 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Нажата кнопка регистрации.
+2023-12-20 01:03:32.339 [JavaFX Application Thread] INFO  com.messenger.messenge.Client - Попытка регистрации пользователя: 123
+2023-12-20 01:03:32.347 [JavaFX Application Thread] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация пользователя: 123
+2023-12-20 01:03:32.362 [Thread-3] INFO  com.messenger.messenge.registration.RegistrationController - Регистрация прошла успешно.
+2023-12-20 01:03:32.377 [Thread-3] INFO  com.messenger.messenge.Client - Запрос списка лобби.
+2023-12-20 01:03:34.015 [JavaFX Application Thread] INFO  com.messenger.messenge.GraphClient - Приложение завершено.
